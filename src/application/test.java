@@ -5,6 +5,8 @@ public class test {
 		//TODO Auto-generated method stub
 		/*message hello*/
 		System.out.println("Hello je suis la branche de master");
+		System.out.println("msg");
+		System.out.println("dev branche");
 	}
 }
 
